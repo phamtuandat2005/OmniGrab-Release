@@ -66,6 +66,16 @@
    - Tiến trình sẽ tải đa luồng cùng lúc.
    - Video tải xong sẽ được lưu tại thư mục `Videos/OmniGrab_Downloads` (bạn có thể bấm nút **"Mở thư mục lưu"** để xem ngay).
 
+### 4. Điều khiển qua Trợ lý AI (Claude Desktop MCP) 🤖
+OmniGrab hỗ trợ chuẩn giao thức **Model Context Protocol (MCP)** hàng đầu của Anthropic, cho phép người dùng điều khiển toàn bộ app OmniGrab trực tiếp từ **Claude Desktop**:
+- **Tự động kết nối (Zero-Click)**: Ngay khi bạn mở OmniGrab, app tự động phát hiện Claude Desktop trên máy và kết nối sẵn sàng.
+- **Tích hợp 1-Click thủ công**: Hoặc chỉ cần vào menu **Công cụ** ➔ Bấm **🤖 Tích hợp Claude Desktop MCP (1-Click)...**.
+- **Ra lệnh bằng tiếng Việt tự nhiên**: Bạn chỉ việc chat với Claude:
+  - *"Tải giúp tôi video TikTok này: https://..."*
+  - *"Lồng tiếng cho video này sang tiếng Việt"*
+  - *"Quét toàn bộ video từ kênh Douyin này"*
+  -> Cửa sổ OmniGrab sẽ tự động bật sáng lên trên màn hình và hiển thị tiến trình tải/lồng tiếng trực quan!
+
 ---
 
 ### Chế độ 2: Quét & Tải toàn bộ kênh (Profile / Channel)
